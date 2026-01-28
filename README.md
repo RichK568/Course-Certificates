@@ -1,5 +1,6 @@
 # Course-Certificates
 The purpose of this repository is to store my LinkedIn Learning Certificates which I have completed for Jupyter, Python, Numpy, and Github training.
+Rick, Dr. Ayers, I am trying very hard to figure out how to let you see this :/
 
 **Certificates**
 1. Linkedin Learning [Introducing Jupyter] (https://github.com/RichK568/Course-Certificates/blob/fb182c09c5dc52812acf141f5851dc1b8501151c/Certificates/Jupyter.png)
